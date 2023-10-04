@@ -1,0 +1,28 @@
+.nav-body {
+    display: flex;
+    height: 100px;
+    margin: 30px;
+    background-color: #f1f4fb;
+    align-items: center;
+    gap: 40px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 15px #bfbfbf;
+}
+
+.nav-search input {
+    border: none;
+    height: 45px;
+    width: 100%;
+    min-width: 121%;
+    margin-left: 22px;
+    border-radius: 20px;
+    padding: 15px;
+    font-size: 20px;
+    outline: 0;
+    box-shadow: 0px 0px 1px 0px #5f5d5d;
+}
+
+.nav-search-symbol a img {
+    width: 30px;
+    background-color: white;
+}

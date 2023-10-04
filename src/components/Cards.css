@@ -1,0 +1,115 @@
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 15px;
+    margin-top: 50px;
+    justify-content: center;
+    gap: 40px;
+}
+
+.card-container {
+    display: flex;
+    width: 582px;
+    height: 677px;
+    flex-direction: column;
+    align-items: center;
+    background: #f1f4fb;
+    box-shadow: 5px 5px 15px #bfbfbf;
+    border-radius: 20px;
+}
+
+
+.card-img {
+    width: 95%;
+}
+
+.card-img img {
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 15px;
+}
+
+.card-details .card-title {
+    display: flex;
+    gap: 19em;
+    align-items: center;
+    margin-top: 15px;
+    justify-content: space-between;
+}
+
+.card-details .card-title p {
+    font-size: 2.5em;
+}
+
+.card-details .card-year {
+    text-align: center;
+    font-weight: bold;
+    outline: dotted #069fff;
+    width: 65px;
+    border-radius: 13px;
+    padding: 0;
+}
+
+.card-details .card-mid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+    margin-top: 25px;
+}
+
+.card-details .card-mid .card-mid-items {
+    display: flex;
+    gap: 3px;
+}
+
+.card-details .card-mid .card-mid-items img {
+    width: 24px;
+    height: 24px;
+}
+
+hr {
+    margin-top: 25px;
+    color: #999696d9;
+}
+
+.card-price {
+    display: flex;
+    gap: 12em;
+    margin-top: 15px;
+    align-items: center;
+}
+
+.card-price span {
+    font-size: 1.7em;
+}
+
+.card-price p {
+    font-weight: bold;
+}
+
+.card-button {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+.card-button a img {
+    display: flex;
+    background: #b2dcff;
+    width: 36px;
+    padding: 6px;
+    border-radius: 6px;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.card-price .card-button button {
+    border: none;
+    background: #069fff;
+    height: 48px;
+    border-radius: 20px;
+    color: white;
+    width: 100px;
+    font-weight: bold;
+}

@@ -1,0 +1,35 @@
+.dropdown {
+    display: flex;
+    gap: 3px;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+}
+
+.dropdown .dropbtn img {
+    width: 10px;
+}
+
+.dropdown {
+    cursor: pointer;
+}
+
+.dropdown-content {
+    display: none;
+    position: relative;
+}
+
+.dropdown-content.open {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    margin-top: 25px;
+    width: 5%;
+    align-items: center;
+    background: floralwhite;
+}
+
+.dropdown-content.open a {
+    text-decoration: none;
+    color: black;
+}
