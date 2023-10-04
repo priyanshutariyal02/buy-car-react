@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/buy-car-react/static/css/main.0de05fd9.css",
+    "main.js": "/buy-car-react/static/js/main.10e30159.js",
+    "static/media/car-5.jpg": "/buy-car-react/static/media/car-5.699e88e7cb76017ddc5f.jpg",
+    "static/media/car-3.jpg": "/buy-car-react/static/media/car-3.a4873f49b96b044af98b.jpg",
+    "static/media/car-6.jpg": "/buy-car-react/static/media/car-6.5be3351efbaf7b371778.jpg",
+    "static/media/car-4.jpg": "/buy-car-react/static/media/car-4.1f9bd44d10b9b057a4df.jpg",
+    "static/media/car-1.jpg": "/buy-car-react/static/media/car-1.c33c9076033827fa30dc.jpg",
+    "static/media/car-2.jpg": "/buy-car-react/static/media/car-2.1abb2b8545a771d035fc.jpg",
+    "index.html": "/buy-car-react/index.html",
+    "main.0de05fd9.css.map": "/buy-car-react/static/css/main.0de05fd9.css.map",
+    "main.10e30159.js.map": "/buy-car-react/static/js/main.10e30159.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0de05fd9.css",
+    "static/js/main.10e30159.js"
+  ]
+}
